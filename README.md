@@ -1,1 +1,1 @@
-# o-github-practice-khaleel
+# github-practice-khaleel
